@@ -17,7 +17,7 @@
 ### Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,md,html,css,js,sql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,md,html,css,js,msql,git,vscode"/>
 </p>
 
 ---
