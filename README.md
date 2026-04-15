@@ -9,15 +9,15 @@
 ### About
 
 * 🎓 1st year CS student @ SJCET, Palai
-* 🧠 currently learning data structures & algorithms
-* ⚡ focused on strong fundamentals
+* 🧠 Currently learning data structures & algorithms
+* 💪🏻 Focused on strong fundamentals
 
 ---
 
 ### Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,sqlite,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,sql,git,vscode" />
 </p>
 
 ---
