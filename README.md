@@ -1,4 +1,4 @@
-###Hi! I'm Rojith! 👋
+##Hi! I'm Rojith! 👋
 
 ✨ Computer Science enthusiast, quick learner, problem solver and an analytical thinker.<br/>
 🙇‍♂️ I am currently a 1st year CS student @ SJCET, Palai.<br/>
