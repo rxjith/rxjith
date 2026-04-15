@@ -1,17 +1,48 @@
-<h3>Hi! I'm Rojith! 👋<h3/>
+<h1 align="center">Hi, I'm Rojith 👋</h1>
 
-✨ Computer Science enthusiast, quick learner, problem solver and an analytical thinker.<br/>
-🙇‍♂️ I am currently a 1st year CS student @ SJCET, Palai.<br/>
-📝 Currently learning Data Structures and Algorithms!
+<p align="center">
+  Computer Science student • Problem solver • Analytical thinker
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Streak](https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true)
+### about
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true)
+* 🎓 1st year CS student @ SJCET, Palai
+* 🧠 currently learning data structures & algorithms
+* ⚡ focused on strong fundamentals
 
-![snake](https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake.svg)
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,tkinter,vscode,sql,git" />
+### tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,sqlite,git,vscode" />
+</p>
+
+---
+
+### stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>stay consistent.</i>
 </p>
