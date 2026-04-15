@@ -6,7 +6,7 @@
 
 ---
 
-### about
+### About
 
 * 🎓 1st year CS student @ SJCET, Palai
 * 🧠 currently learning data structures & algorithms
@@ -14,7 +14,7 @@
 
 ---
 
-### tech
+### Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,sqlite,git,vscode" />
@@ -22,7 +22,7 @@
 
 ---
 
-### stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -35,14 +35,10 @@
 
 ---
 
-### activity
+### Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
-<p align="center">
-  <i>stay consistent.</i>
-</p>
