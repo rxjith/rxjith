@@ -30,16 +30,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ### Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 ---
 
