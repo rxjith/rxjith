@@ -22,6 +22,18 @@
 
 ---
 
+### Connect with me!
+<p align="center">
+  <a href="https://www.linkedin.com/in/rojith-j-94408837b/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/rxjith/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
+
+---
+
 ### Stats
 
 <p align="center">
