@@ -34,13 +34,3 @@
 </p>
 
 ---
-
-### Activity
-
-
-
----
-
-<p align="center">
-  <i>stay consistent.</i>
-</p>
