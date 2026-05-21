@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake-dark.svg?v=3" />
 </p>
 
 ---
