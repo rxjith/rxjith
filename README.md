@@ -42,12 +42,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&bg_color=1d2021&color=fabd2f&line=fabd2f&point=fe8019&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&bg_color=272822&color=f92672&line=a6e22e&point=66d9ef&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=ffae42&label=Profile+Views" alt="Profile Views" />
 </p>
 
