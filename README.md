@@ -10,7 +10,7 @@
 
 * 🎓 1st year CS student @ SJCET, Palai
 * 🧠 Currently learning data structures & algorithms
-* 💪🏻 Focused on strong fundamentals
+* 💪 Focused on strong fundamentals
 
 ---
 
@@ -37,17 +37,18 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rxjith&show_icons=true&theme=gruvbox_dark&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rxjith&theme=gruvbox_dark&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake-dark.svg?v=3" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&bg_color=1d2021&color=fabd2f&line=fabd2f&point=fe8019&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=ffae42&label=Profile+Views" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=ffe259&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
