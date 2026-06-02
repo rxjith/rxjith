@@ -12,7 +12,7 @@
 * 🧠 Currently learning data structures & algorithms
 * 💪 Focused on strong fundamentals
 
----
+--- 
 
 ### Tech
 
