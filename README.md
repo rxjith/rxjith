@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rxjith&show_icons=true&theme=monokai&hide_border=true&cache_seconds=60" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxjith&theme=monokai&hide_border=true&cache_seconds=60" height="150"/>
+  <img src="https://streak-stats.vercel.app?user=rxjith&theme=monokai&hide_border=true&cache_seconds=60" height="150"/>
 </p>
 
 <p align="center">
