@@ -8,7 +8,7 @@
 
 ### About
 
-* 🎓 1st year CS student @ SJCET, Palai
+* 🎓 2nd year CS student @ SJCET, Palai
 * 🧠 Currently learning data structures & algorithms
 * 💪 Focused on strong fundamentals
 
