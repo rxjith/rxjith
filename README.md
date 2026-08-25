@@ -14,27 +14,27 @@
 
 </div>
 
-<p align="center">
+<div align="center">
 
-    <a href="https://www.linkedin.com/in/rojith-j-94408837b">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--j--94408837b-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
-                <img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--jinenth-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
-        </picture>
-    </a>
-    
-    <a href="https://www.instagram.com/rxjith">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
-                <img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
-        </picture>
-    </a>
+<a href="https://www.linkedin.com/in/rojith-j-94408837b">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--j--94408837b-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
+            <img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--jinenth-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
+    </picture>
+</a>
 
-    <a href="mailto:rojith.jinenth@gmail.com">
-        <img src="https://camo.githubusercontent.com/67f4feda864c31ab1d817c0fb16ec278263f7bba60f87fd7f1cc353484080c21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" />
-    </a>
+<a href="https://www.instagram.com/rxjith">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
+            <img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
+    </picture>
+</a>
 
-</p>
+<a href="mailto:rojith.jinenth@gmail.com">
+    <img src="https://camo.githubusercontent.com/67f4feda864c31ab1d817c0fb16ec278263f7bba60f87fd7f1cc353484080c21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" />
+</a>
+
+</div>
 
 ---
 
