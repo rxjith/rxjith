@@ -16,7 +16,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/rojith-j-94408837b/">
+  <a href="https://www.linkedin.com/in/rojith-jinenth/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
@@ -25,7 +25,7 @@
   </a>
 
   <a href="mailto:rojith.jinenth@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://camo.githubusercontent.com/67f4feda864c31ab1d817c0fb16ec278263f7bba60f87fd7f1cc353484080c21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" />
   </a>
 </p>
 
