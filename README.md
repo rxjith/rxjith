@@ -14,6 +14,21 @@
 
 </div>
 
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/rojith-j-94408837b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.instagram.com/rxjith/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+
+  <a href="mailto:rojith.jinenth@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -112,25 +127,6 @@ P.S.: <i>Filous is my very first Android app btw!</i>
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/rojith-j-94408837b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.instagram.com/rxjith/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-
-  <a href="mailto:rojith.jinenth@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
 </p>
 
 ---
