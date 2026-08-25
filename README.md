@@ -16,9 +16,16 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rojith-j-94408837b">
+<a href="mailto:rojith.jinenth@gmail.com">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--j--94408837b-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Email-rojith.jinenth%40gmail.com-EA4335.svg?logo=gmail&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
+            <img alt="Email" src="https://www.shieldcn.dev/badge/Email-rojith.jinenth%40gmail.com-EA4335.svg?logo=gmail&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
+    </picture>
+</a>
+
+<a href="https://www.linkedin.com/in/rojith-jinenth">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--jinenth-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
             <img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40rojith--jinenth-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
     </picture>
 </a>
