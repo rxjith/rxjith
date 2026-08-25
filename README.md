@@ -79,8 +79,11 @@ My current focus is on:
 
 ## 🧱 Things I've Built
 
-### 🍽️ [CampusCrunch](https://github.com/rxjith/canteen-app)
-
+<h3>
+  🍽️ <a href="https://github.com/rxjith/CampusCrunch">
+    <span style="color:#8A0CF7;">Campus Crunch</span>
+  </a>
+</h3>
 
 A project built around making campus food ordering and management a little less painful.
 
@@ -89,7 +92,11 @@ food. Projects like this are where I enjoy thinking beyond just writing
 code — considering the **user flow, data handling, and the actual problem the software is
 supposed to solve**.
 
-### 💸 [Filous](https://github.com/rxjith/Filous)
+<h3>
+  💸 <a href="https://github.com/rxjith/Filous">
+    <span style="color:#8A0CF7;">Filous</span>
+  </a>
+</h3>
 
 A project built around making budgeting and tracking your spendings a breeze, especially 
 for broke yet responsible college students :>
