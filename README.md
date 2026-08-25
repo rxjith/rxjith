@@ -1,5 +1,5 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Hi%20there!%20I'm%20Rojith!&textBg=false&fontColor=FFFFFF&animation=fadeIn&descAlignY=71&reversal=false"
+  src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&text=Hi%20there!%20I'm%20Rojith!&textBg=false&fontColor=FFFFFF&animation=fadeIn&descAlignY=71&reversal=false&fontSize=65"
   width="100%"
 />
 
