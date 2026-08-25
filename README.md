@@ -67,7 +67,7 @@ to implement what I've learnt outside regular academics.
 
 My current focus is on:
 
-- 🧠 Strengthening my **Data Structure** implementations
+- 🧠 Strengthening my **Data Structures & Algorithms** fundamentals
 - 📱 Building and exploring with **Flutter**
 - ⚙️ Learning more about **backend systems and application architecture**
 - 🗄️ Working with **databases, SQL, and data-driven applications**
@@ -98,7 +98,7 @@ supposed to solve**.
   </a>
 </h3>
 
-A project built around making budgeting and tracking your spendings a breeze, especially 
+A project built around making budgeting and tracking your spending a breeze, especially 
 for broke yet responsible college students :>
 
 Filous represents the part of development I enjoy most: starting with a problem or concept,
