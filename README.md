@@ -5,6 +5,9 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&duration=3750&pause=500&color=8A0CF7&center=true&vCenter=true&width=435&lines=Engineering+convenience.;C%2C+Java%2C+Python%2C+SQL%2C+JS;Turning+everyday+friction+into+software.;Computer+Science+%26+Engineering+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Product+Sans&duration=3750&pause=500&color=8A0CF7&center=true&vCenter=true&width=435&lines=Engineering+convenience.;C%2C+Java%2C+Python%2C+SQL%2C+JS;Turning+everyday+friction+into+software." alt="Typing SVG" /></a>
 
 </div>
+
+**2nd Year CS Student @ SJCET, Palai**
+**📍 Kottayam, KL 🇮🇳 | 🐥 Kuwait 🇰🇼**
