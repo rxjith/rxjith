@@ -117,9 +117,8 @@ P.S.: <i>Filous is my very first Android app btw!</i>
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
@@ -129,17 +128,14 @@ P.S.: <i>Filous is my very first Android app btw!</i>
     height="165"
     alt="GitHub Streak"
   />
-
 </p>
 
 <p align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
-
 </p>
 
 ---
@@ -148,7 +144,10 @@ P.S.: <i>Filous is my very first Android app btw!</i>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
