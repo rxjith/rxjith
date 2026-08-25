@@ -80,7 +80,7 @@ My current focus is on:
 
 ## 🧱 Things I've Built
 
-### 🍽️ [Campus Crunch](https://github.com/rxjith/CampusCrunch)
+### 🍽️ [CampusCrunch](https://github.com/rxjith/canteen-app)
 
 
 A project built around making campus food ordering and management a little less painful.
