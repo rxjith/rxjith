@@ -13,8 +13,8 @@
 
 <div align="center">
 
-**2nd Year Computer Science Student @ SJCET, Palai**
+🎓 <b>2nd Year CS Student @ SJCET, Palai</b>
 
-📍 **Kottayam, Kerala, India** 🇮🇳 &nbsp;•&nbsp; 🐥 **Raised in Kuwait** 🇰🇼
+📍 Kottayam, Kerala 🇮🇳 &nbsp;•&nbsp; 🐥 Raised in Kuwait 🇰🇼
 
 </div>
