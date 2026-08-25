@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=Rojith&fontSize=42&fontColor=ffffff&desc=Building%20software%2C%20breaking%20things%2C%20and%20figuring%20out%20why.&descSize=18&descAlign=50&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=300&section=header&text=Rojith&fontSize=42&fontColor=ffffff&desc=Building%20software%2C%20breaking%20things%2C%20and%20figuring%20out%20why.&descSize=18&descAlign=50&descAlignY=58)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Computer%20Science%20Undergrad;Flutter%20%26%20Mobile%20Explorer;Backend%20%26%20Systems%20Tinkerer;Problem%20Solver%20in%20Training)](https://git.io/typing-svg)
