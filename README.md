@@ -80,7 +80,8 @@ My current focus is on:
 
 ## 🧱 Things I've Built
 
-### 🍽️ Campus Crunch
+### 🍽️ [Campus Crunch](https://github.com/rxjith/CampusCrunch)
+
 
 A project built around making campus food ordering and management a little less painful.
 
@@ -89,7 +90,7 @@ food. Projects like this are where I enjoy thinking beyond just writing
 code — considering the **user flow, data handling, and the actual problem the software is
 supposed to solve**.
 
-### 💸 Filous
+### 💸 [Filous](https://github.com/rxjith/Filous)
 
 A project built around making budgeting and tracking your spendings a breeze, especially 
 for broke yet responsible college students :>
@@ -116,39 +117,45 @@ P.S.: <i>Filous is my very first Android app btw!</i>
 
 ## 📊 GitHub Stats
 
+<i>Stats API seem to be misbehaving rn, will append later post-fixing!</i>
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
-
+-->
+<!--
   <img
     src="https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Streak"
   />
 </p>
+-->
 
-<p align="center">
+<!--<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
 </p>
+-->
 
 ---
 
 ## 📈 Activity
 
-<p align="center">
+<i>Snek 🐍 also seems to be unwell! Will bring him back as soon as he's feeling better :P</i>
+<!--<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
-</p>
+</p>-->
 
 ---
 
@@ -156,4 +163,4 @@ P.S.: <i>Filous is my very first Android app btw!</i>
   <img src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=8A0CF7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&text=Thanks%20for%20checking%20my%20profile%20out%20:)&section=footer&fontSize=30" width="100%" />
