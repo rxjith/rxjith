@@ -66,11 +66,13 @@ supposed to solve**.
 
 ### 💸 Filous
 
-One of my projects where I explored taking an idea and shaping it into an actual software
-product.
+A project built around making budgeting and tracking your spendings a breeze, especially 
+for broke yet responsible college students :>
 
 Filous represents the part of development I enjoy most: starting with a problem or concept,
 breaking it down into smaller pieces, and slowly turning it into something that actually works.
+
+P.S.: <i>Filous is my very first Android app btw!</i>
 
 ---
 
@@ -78,9 +80,7 @@ breaking it down into smaller pieces, and slowly turning it into something that 
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,python,java,html,css,js,dart,flutter,mysql,postgres,git,linux,vscode"
-    alt="Tech Stack"
-  />
+    src="https://skillicons.dev/icons?i=c,python,java,html,css,js,dart,flutter,mysql,postgres,git,linux,vscode" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -93,24 +93,16 @@ breaking it down into smaller pieces, and slowly turning it into something that 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="165"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
+    src="https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -119,10 +111,7 @@ breaking it down into smaller pieces, and slowly turning it into something that 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -135,33 +124,19 @@ breaking it down into smaller pieces, and slowly turning it into something that 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="https://www.instagram.com/rxjith/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 
-</p>
-
-<p align="center">
   <a href="mailto:rojith.jinenth@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=8A0CF7&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=8A0CF7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=120&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&section=footer" width="100%" />
