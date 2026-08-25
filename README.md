@@ -53,7 +53,7 @@
 
 ## 👋 About Me
 
-I'm **Rojith**, a CS major who enj>oys taking ideas, inconveniences, and
+I'm **Rojith**, a CS major who enjoys taking ideas, inconveniences, and
 "there should probably be an easier way to do this" moments and turning 
 them into software or — as I like to call it — **convenience**. :>
 
