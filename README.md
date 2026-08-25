@@ -60,8 +60,7 @@ them into software or — as I like to call it — **convenience**. :>
 Most of my learning happens by building.
 
 Whether it's experimenting with **Flutter**, working with **databases**, writing backend logic,
-or wrestling with an algorithm that absolutely refuses to make sense at 1 AM, I like getting
-my tinkering and figuring things out.
+or wrestling with an algorithm that absolutely refuses to make sense at 1 AM, I like tinkering and figuring things out.
 
 I've built projects such as **Filous** and **Campus Crunch**, using them as opportunities
 to implement what I've learnt outside regular academics.
