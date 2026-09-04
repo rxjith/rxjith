@@ -80,7 +80,7 @@ My current focus is on:
 ## 🧱 Things I've Built
 
 <h3>
-  🍽️ <a href="https://github.com/rxjith/CampusCrunch">
+  🍽️ <a href="https://github.com/rxjith/canteen-app">
     <span style="color:#8A0CF7;">Campus Crunch</span>
   </a>
 </h3>
