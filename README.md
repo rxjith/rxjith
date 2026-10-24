@@ -123,50 +123,53 @@ P.S.: <i>Filous is my very first Android app btw!</i>
 
 ## 📊 GitHub Stats
 
-<i>Stats API seem to be misbehaving rn, will append later post-fixing!</i>
-<!--
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
--->
-<!--
   <img
-    src="https://streak-stats.demolab.com?user=rxjith&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
-  />
-</p>
--->
-
-<!--<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
 </p>
--->
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
 
 ---
 
 ## 📈 Activity
 
-<i>Snek 🐍 also seems to be unwell! Will bring him back as soon as he's feeling better :P</i>
-<!--<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rxjith&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>-->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=8A0CF7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rxjith&style=flat-square&color=8A0CF7&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=190&color=gradient&text=Thanks%20for%20checking%20my%20profile%20out%20:)&section=footer&fontSize=30" width="100%" />
