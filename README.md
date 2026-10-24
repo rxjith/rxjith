@@ -136,33 +136,6 @@ P.S.: <i>Filous is my very first Android app btw!</i>
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/rxjith/rxjith/output/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
