@@ -128,7 +128,7 @@ supposed to solve**.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,python,java,rust,html,css,js,dart,flutter,fastapi,postgres,mysql,firebase,git,linux,vscode" alt="Tech Stack" />
+    src="https://skillicons.dev/icons?i=c,python,java,rust,html,css,js,dart,flutter,fastapi,postgres,mysql,firebase,git,linux" alt="Tech Stack" />
 </p>
 
 <p align="center">
