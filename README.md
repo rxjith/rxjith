@@ -30,13 +30,6 @@
     </picture>
 </a>
 
-<a href="https://www.instagram.com/rxjith">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Instagram-%40rxjith-E4405F.svg?logo=instagram&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;theme=amber">
-            <img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-%40rxjith-E4405F.svg?logo=instagram&amp;variant=branded&amp;size=sm&amp;mode=light&amp;theme=amber">
-    </picture>
-</a>
-
 </div>
 
 ---
