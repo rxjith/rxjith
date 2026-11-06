@@ -88,7 +88,7 @@ An ultra-fast, local peer-to-peer file sharing and messaging tool for your local
 Think of it as AirDrop, but cross-platform—allowing devices on the same network to auto-discover each other and send large files or chat directly at maximum Wi-Fi speed without needing internet or cloud uploads.
 
 <h3>
-  🦀 <a href="https://github.com/rxjith/FerroClicker">
+  🦀 <a href="https://github.com/rxjith/ferro-clicker">
     <span style="color:#8A0CF7;">FerroClicker</span>
   </a>
 </h3>
