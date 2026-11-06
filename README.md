@@ -7,7 +7,7 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Product+Sans&duration=3750&pause=500&color=8A0CF7&center=true&vCenter=true&width=600&lines=Engineering+convenience.;C%2C+Java%2C+Python%2C+SQL%2C+JS.;Turning+everyday+friction+into+software."
+      src="https://readme-typing-svg.demolab.com?font=Product+Sans&duration=3750&pause=500&color=8A0CF7&center=true&vCenter=true&width=600&lines=Engineering+convenience.;C%2C+Java%2C+Python%2C+Rust%2C+SQL%2C+JS.;Turning+everyday+friction+into+software."
       alt="Typing SVG"
     />
   </a>
@@ -59,11 +59,9 @@ them into software or — as I like to call it — **convenience**. :>
 
 Most of my learning happens by building.
 
-Whether it's experimenting with **Flutter**, working with **databases**, writing backend logic,
-or wrestling with an algorithm that absolutely refuses to make sense at 1 AM, I like tinkering and figuring things out.
+Whether it's experimenting with **Flutter**, writing backend APIs with **FastAPI**, working with **Rust**, or wrestling with an algorithm that absolutely refuses to make sense at 1 AM, I like tinkering and figuring things out.
 
-I've built projects such as **LANDrop**, **Filous**, and **Campus Crunch**, using them as opportunities
-to implement what I've learnt outside regular academics.
+I've built projects such as **LANDrop**, **Filous**, **FerroClicker**, and **Campus Crunch**, using them as opportunities to implement what I've learnt outside regular academics.
 
 My current focus is on:
 
@@ -85,9 +83,17 @@ My current focus is on:
   </a>
 </h3>
 
-A ultra-fast, local peer-to-peer file sharing and messaging tool for your local Wi-Fi network.
+An ultra-fast, local peer-to-peer file sharing and messaging tool for your local Wi-Fi network.
 
 Think of it as AirDrop, but cross-platform—allowing devices on the same network to auto-discover each other and send large files or chat directly at maximum Wi-Fi speed without needing internet or cloud uploads.
+
+<h3>
+  🦀 <a href="https://github.com/rxjith/FerroClicker">
+    <span style="color:#8A0CF7;">FerroClicker</span>
+  </a>
+</h3>
+
+A lightweight, portable auto-clicker GUI utility written in Rust for Linux desktops featuring custom global hotkeys and AppImage support.
 
 <h3>
   💸 <a href="https://github.com/rxjith/Filous">
@@ -122,7 +128,7 @@ supposed to solve**.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,python,java,html,css,js,dart,flutter,mysql,postgres,git,linux,vscode" alt="Tech Stack" />
+    src="https://skillicons.dev/icons?i=c,python,java,rust,html,css,js,dart,flutter,fastapi,postgres,mysql,firebase,git,linux,vscode" alt="Tech Stack" />
 </p>
 
 <p align="center">
