@@ -62,7 +62,7 @@ Most of my learning happens by building.
 Whether it's experimenting with **Flutter**, working with **databases**, writing backend logic,
 or wrestling with an algorithm that absolutely refuses to make sense at 1 AM, I like tinkering and figuring things out.
 
-I've built projects such as **Filous** and **Campus Crunch**, using them as opportunities
+I've built projects such as **LANDrop**, **Filous**, and **Campus Crunch**, using them as opportunities
 to implement what I've learnt outside regular academics.
 
 My current focus is on:
@@ -80,17 +80,14 @@ My current focus is on:
 ## 🧱 Things I've Built
 
 <h3>
-  🍽️ <a href="https://github.com/rxjith/canteen-app">
-    <span style="color:#8A0CF7;">Campus Crunch</span>
+  📡 <a href="https://github.com/Metysmos/LANDrop">
+    <span style="color:#8A0CF7;">LANDrop</span>
   </a>
 </h3>
 
-A project built around making campus food ordering and management a little less painful.
+A ultra-fast, local peer-to-peer file sharing and messaging tool for your local Wi-Fi network.
 
-The idea is straightforward: reduce unnecessary friction between students, canteen staff, and
-food. Projects like this are where I enjoy thinking beyond just writing
-code — considering the **user flow, data handling, and the actual problem the software is
-supposed to solve**.
+Think of it as AirDrop, but cross-platform—allowing devices on the same network to auto-discover each other and send large files or chat directly at maximum Wi-Fi speed without needing internet or cloud uploads.
 
 <h3>
   💸 <a href="https://github.com/rxjith/Filous">
@@ -105,6 +102,19 @@ Filous represents the part of development I enjoy most: starting with a problem 
 breaking it down into smaller pieces, and slowly turning it into something that actually works.
 
 P.S.: <i>Filous is my very first Android app btw!</i>
+
+<h3>
+  🍽️ <a href="https://github.com/rxjith/canteen-app">
+    <span style="color:#8A0CF7;">Campus Crunch</span>
+  </a>
+</h3>
+
+A project built around making campus food ordering and management a little less painful.
+
+The idea is straightforward: reduce unnecessary friction between students, canteen staff, and
+food. Projects like this are where I enjoy thinking beyond just writing
+code — considering the **user flow, data handling, and the actual problem the software is
+supposed to solve**.
 
 ---
 
