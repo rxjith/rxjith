@@ -70,50 +70,12 @@ My current focus is on:
 
 ## 🧱 Things I've Built
 
-<h3>
-  📡 <a href="https://github.com/Metysmos/LANDrop">
-    <span style="color:#8A0CF7;">LANDrop</span>
-  </a>
-</h3>
-
-An ultra-fast, local peer-to-peer file sharing and messaging tool for your local Wi-Fi network.
-
-Think of it as AirDrop, but cross-platform—allowing devices on the same network to auto-discover each other and send large files or chat directly at maximum Wi-Fi speed without needing internet or cloud uploads.
-
-<h3>
-  🦀 <a href="https://github.com/rxjith/ferro-clicker">
-    <span style="color:#8A0CF7;">FerroClicker</span>
-  </a>
-</h3>
-
-A lightweight, portable auto-clicker GUI utility written in Rust for Linux desktops featuring custom global hotkeys and AppImage support.
-
-<h3>
-  💸 <a href="https://github.com/rxjith/Filous">
-    <span style="color:#8A0CF7;">Filous</span>
-  </a>
-</h3>
-
-A project built around making budgeting and tracking your spending a breeze, especially 
-for broke yet responsible college students :>
-
-Filous represents the part of development I enjoy most: starting with a problem or concept,
-breaking it down into smaller pieces, and slowly turning it into something that actually works.
-
-P.S.: <i>Filous is my very first Android app btw!</i>
-
-<h3>
-  🍽️ <a href="https://github.com/rxjith/canteen-app">
-    <span style="color:#8A0CF7;">Campus Crunch</span>
-  </a>
-</h3>
-
-A project built around making campus food ordering and management a little less painful.
-
-The idea is straightforward: reduce unnecessary friction between students, canteen staff, and
-food. Projects like this are where I enjoy thinking beyond just writing
-code — considering the **user flow, data handling, and the actual problem the software is
-supposed to solve**.
+| Project | Description |
+|:---|:---|
+| 📡 **[LANDrop](https://github.com/Metysmos/LANDrop)** | An ultra-fast, local peer-to-peer file sharing and messaging tool. Think AirDrop, but cross-platform — devices on the same network automatically discover each other and exchange large files or messages without internet access or cloud uploads. |
+| 🦀 **[FerroClicker](https://github.com/rxjith/ferro-clicker)** | A lightweight, portable auto-clicker GUI utility written in Rust for Linux desktops, featuring custom global hotkeys and AppImage support. |
+| 💸 **[Filous](https://github.com/rxjith/Filous)** | An Android app focused on making budgeting and expense tracking easier, especially for college students. My first Android application! |
+| 🍽️ **[Campus Crunch](https://github.com/rxjith/canteen-app)** | A campus food ordering and management project designed to reduce friction between students, canteen staff, and food, with an emphasis on user flows and data handling. |
 
 ---
 
