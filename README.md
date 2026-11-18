@@ -96,12 +96,12 @@ My current focus is on:
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=rxjith&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjith&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
